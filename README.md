@@ -1,2 +1,2 @@
 # etc_cal
-calculrator
+calculator
